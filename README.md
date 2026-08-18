@@ -1,73 +1,70 @@
-## Hi there 👋
-I am Mutawakkil 
+Mutawakkil Yusuf is the name. 
 
 Product Builder · Full-Stack Developer · Creative Technologist
 
-I build products that turn ideas into useful digital experiences.
+I build digital products that turn ideas into useful experiences.
 
-My work sits at the intersection of software, product design, AI, and the web. I enjoy taking an idea from a rough thought to something people can actually use.
+My work sits at the intersection of software, product design, AI, and the web. I enjoy taking an idea from a rough concept to something people can actually use.
 
-Currently exploring deeper into software engineering, AI, security, and product development.
+Currently going deeper into software engineering, AI, cybersecurity, and product development.
 
 ---
 
-What I'm Building
-
-Project| What it is| Stack
-HORD| A personal archive for things worth keeping| HTML · CSS · JavaScript · Supabase
-Amanah| A private ledger for keeping track of debts and obligations| HTML · CSS · JavaScript · Supabase
-Soro| A social network designed for African university students| HTML · CSS · JavaScript · Supabase
-InkOS| A bilingual AI prompt intelligence platform| Next.js · FastAPI · Groq
+🚀 What I'm Building
 
 HORD
 
-«Capture → Keep → Find → Revisit»
+A personal archive for things worth keeping.
 
-A personal archive built around the idea that not everything worth keeping belongs in a notes app.
+HORD helps you capture, organize, search, and revisit thoughts, fragments, references, links, and screenshots.
 
-HORD lets users save thoughts, fragments, references, links and screenshots, then organize and rediscover them later.
+Capture → Keep → Find → Revisit
 
-Status: Building
+"HTML" "CSS" "JavaScript" "Supabase" "Netlify"
 
 ---
 
 Amanah
 
-A simple, private space for recording financial obligations and keeping track of who owes what.
+A private ledger for financial obligations.
 
-Built with a focus on clarity, privacy and simplicity rather than unnecessary complexity.
+A simple product designed to help people record and keep track of debts and obligations with clarity and privacy.
 
-Status: Shipped
+"HTML" "CSS" "JavaScript" "Supabase" "Netlify"
 
 ---
 
 Soro
 
-A social platform built around the university experience, with a particular focus on connecting African university students.
+A social network for African university students.
 
-One of my earlier experiments in building a complete product from the ground up.
+An early full-stack product experiment focused on creating a digital space around the university experience.
 
-Status: Shipped
+"HTML" "CSS" "JavaScript" "Supabase"
 
 ---
 
 InkOS
 
-An AI-powered platform exploring how prompts can be refined, structured and improved across Arabic and English.
+A bilingual AI prompt intelligence platform.
 
-The project evolved from an early prototype into a more serious full-stack experiment using a Next.js frontend and FastAPI backend.
+An experiment exploring how prompts can be refined, structured, and improved across Arabic and English.
 
-Status: Experimenting
+"Next.js" "FastAPI" "Groq"
 
 ---
 
-My Stack
+🛠️ Tech Stack
+
+Languages & Web
+
+"HTML" "CSS" "JavaScript" "TypeScript"
 
 Frontend
 
-"HTML" "CSS" "JavaScript" "React" "Next.js"
+"React" "Next.js"
 
-Backend
+Backend & Data
 
 "Node.js" "FastAPI" "Supabase" "PostgreSQL"
 
@@ -79,79 +76,66 @@ Tools
 
 "Git" "GitHub" "Netlify" "Figma"
 
-I'm currently going deeper into TypeScript, React, Next.js, backend engineering, databases, security and production systems.
-
 ---
 
-How I Like to Build
-
-IDEA
- ↓
-UNDERSTAND THE PROBLEM
- ↓
-DESIGN THE EXPERIENCE
- ↓
-BUILD THE PRODUCT
- ↓
-TEST
- ↓
-SHIP
- ↓
-LEARN
- ↓
-ITERATE
-
-I care about more than making something technically work.
-
-I want the final product to feel intentional.
-
----
-
-Beyond Code
-
-I'm especially interested in:
+🧠 What I'm Interested In
 
 - Product development
-- AI & emerging technology
 - Software engineering
+- Artificial intelligence
 - Cybersecurity
 - Interface design
 - Digital products
-- Building for African users
+- African technology
 - Arabic technology & bilingual experiences
 
 ---
 
-Currently
+🔭 Currently
 
-🔨 Building and refining products
-
-📚 Going deeper into software engineering
-
-🧠 Exploring AI-powered products
-
-🌍 Documenting the journey
+- Building and refining products
+- Going deeper into software engineering
+- Exploring AI-powered products
+- Learning more about security and production systems
+- Documenting the journey
 
 ---
 
-Let's Connect
+⚡ How I Build
 
-"X / Twitter" (https://x.com/) · "LinkedIn" (https://linkedin.com/) · "Portfolio" (#)
+IDEA
+  ↓
+PROBLEM
+  ↓
+EXPERIENCE
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+SHIP
+  ↓
+ITERATE
+
+I care about making software that doesn't just work, but feels intentional.
+
+---
+
+📌 Featured Projects
+
+- 🗂️ HORD — Personal archive for things worth keeping
+- 🤝 Amanah — Private obligations ledger
+- 🌍 Soro — Social network for African university students
+- ✦ InkOS — Arabic-English AI prompt intelligence
+
+---
+
+🌐 Find Me
+
+"Portfolio" (#) · "LinkedIn" (#) · "X" (#)
 
 ---
 
 «Build things worth using.»
-<!--
-**Mutawakkil-Yusuf/Mutawakkil-Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
