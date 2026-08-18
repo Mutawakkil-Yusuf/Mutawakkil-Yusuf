@@ -132,10 +132,10 @@ I care about making software that doesn't just work, but feels intentional.
 
 ---
 
-🌐 Find Me
+🌐 Find Me on
 
-"Portfolio" (#) · "LinkedIn" (#) · "X" (#)
+ "LinkedIn" (https://www.linkedin.com/in/mutawakkil-yusuf-31351b1b5) · "X" (https://x.com/itsmutawakkil)
 
 ---
 
-«Build things worth using.»
+Lets build things worth using.
